@@ -1,0 +1,90 @@
+body {
+    background-color: #6ddb6e;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+input {
+    padding: 10px;
+    width: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#again {
+    background-color: #ff4d4d;
+    color: white;
+}
+
+.between {
+  font-size: 1.4rem;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
+
+.again {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+}
+
+.guess {
+  background: none;
+  border: 4px solid #eeeeee;
+  font-family: inherit;
+  color: inherit;
+  font-size: 5rem;
+  padding: 2.5rem;
+  width: 25rem;
+  text-align: center;
+  display: block;
+  margin-bottom: 3rem;
+}
+header {
+  position: relative;
+  height: 35vh;
+  border-bottom: 7px solid #eee;
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 140px;
+}
+.number {
+  background: #eee;
+  color: #fd0808;
+
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 50%); 
+  color: inherit;
+  font-size: 5rem;
+  padding: 5px;
+  width: 7rem;
+  text-align: center;
+  display: block;
+  padding: 1px;
+}
