@@ -34,9 +34,10 @@ cd Number-Guess
 Open index.html in your browser to play the game.
 
 
-🚀 Live Demo
+ 🚀 **Live Demo:** 
+ 
+ [Play the Number Guess Game](https://souravgour-17.github.io/Number-Guess/)
 
-[![Number Guess Screenshot](game.png)](https://souravgour-17.github.io/Number-Guess/)
 
 
 🖼️ Screenshot
