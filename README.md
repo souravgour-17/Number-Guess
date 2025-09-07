@@ -35,7 +35,7 @@ Open index.html in your browser to play the game.
 
 🚀 Live Demo
 
-https://souravgour-17.github.io/Number-Guess/
+[play here ](https://souravgour-17.github.io/Number-Guess/)
 
 🖼️ Screenshot
 
