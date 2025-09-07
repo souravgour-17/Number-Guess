@@ -33,9 +33,12 @@ git clone https://github.com/souravgour-17/Number-Guess.git
 cd Number-Guess
 Open index.html in your browser to play the game.
 
+
 🚀 Live Demo
 
-[play here ](https://souravgour-17.github.io/Number-Guess/)
+[![Number Guess Screenshot](game.png)](https://souravgour-17.github.io/Number-Guess/)
+
+
 
 🖼️ Screenshot
 
