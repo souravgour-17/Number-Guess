@@ -39,7 +39,6 @@ Open index.html in your browser to play the game.
 [![Number Guess Screenshot](game.png)](https://souravgour-17.github.io/Number-Guess/)
 
 
-
 🖼️ Screenshot
 
 🤝 Contributing
